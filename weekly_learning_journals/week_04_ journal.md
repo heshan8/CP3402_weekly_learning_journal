@@ -3,9 +3,9 @@
 ## Week 4
 
 ### Learning activities
-Watched linked in learning videos on version control and site migration
-Looked at local hosting with XAMPP and WordPress on YouTube
-Looked at different types of web servers for CMS
+I Watched linked in learning videos on version control and site migration.  
+I looked at local hosting with XAMPP and WordPress tutorials on YouTube.  
+I Looked at different types of web servers for CMS.
 
 
 ### Resources and links
