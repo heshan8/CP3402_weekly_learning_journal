@@ -1,6 +1,6 @@
 # CP3402 Weekly Journal
 
-## Week 4
+## Week 6
 
 ### Learning activities
 - Watched LinkedIn learning videos about stand-up meetings and agile methodologies
